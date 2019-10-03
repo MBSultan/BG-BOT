@@ -1,0 +1,6 @@
+﻿token=-NjI5MzU4NjYzODU3MDc4MzIy.XZYp7Q.LuCveBDxOtTdCasFgzt8hVebptM 
+owner=553196450310520842 
+prefix= *
+game= 𝓥𝓘𝓟 𝓑𝓖 | 𝓜𝓑𝓢
+stayinchannel=true
+songinstatus=true 
