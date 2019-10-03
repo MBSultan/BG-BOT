@@ -1,6 +1,6 @@
-token=-NjI5MzU4NjYzODU3MDc4MzIy.XZYp7Q.LuCveBDxOtTdCasFgzt8hVebptM 
+﻿token=-NjI5MzU4NjYzODU3MDc4MzIy.XZYt9A.SjF_05VW6PVAenhYfuAeXYZRDx4 
 owner=553196450310520842 
-prefix= *
-game= *thelp
+prefix= !
+game= !uhelp
 stayinchannel=true
 songinstatus=true 
